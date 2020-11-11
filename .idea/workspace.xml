@@ -49,6 +49,7 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1k8J3A2G5eOM8WjWcqrVJBBO9GG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -111,10 +112,22 @@
       <updated>1605076083378</updated>
       <workItem from="1605076085004" duration="6610000" />
     </task>
+    <task id="LOCAL-00001" summary="添加忽略">
+      <created>1605085374472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605085374472</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加忽略" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加忽略" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="145" key="#com.intellij.ide.util.MemberChooser" timestamp="1605078404131">
@@ -125,6 +138,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="593" y="163" key="#xdebugger.evaluate/0.0.1440.900/-273.-1080.1920.1080@0.0.1440.900" timestamp="1605077760863" />
+    <state x="312" y="55" key="CommitChangelistDialog2" timestamp="1605085374347">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="312" y="55" key="CommitChangelistDialog2/0.0.1440.900/-273.-1080.1920.1080@0.0.1440.900" timestamp="1605085374347" />
     <state width="1398" height="383" key="GridCell.Tab.0.bottom" timestamp="1605083564840">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -185,6 +202,10 @@
     </state>
     <state width="1398" height="383" key="GridCell.Tab.2.right/0.0.1440.900/-273.-1080.1920.1080@0.0.1440.900" timestamp="1605083564755" />
     <state width="1398" height="303" key="GridCell.Tab.2.right/0.23.1440.792/-273.-1057.1920.1057@0.23.1440.792" timestamp="1605078849397" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1605085377527">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900/-273.-1080.1920.1080@0.0.1440.900" timestamp="1605085377527" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
